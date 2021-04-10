@@ -1,0 +1,7 @@
+You ask the cat if it is hungry.
+The cat says: "I'm hungry, bro!"
+
+You feed the cat.
+
+You ask the cat if it is hungry.
+The cat says: "I just want to sleep for a bit, OK?"
